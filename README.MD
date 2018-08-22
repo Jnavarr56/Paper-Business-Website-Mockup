@@ -13,6 +13,8 @@ company's page and views information in each new section.
 
 Chart.js is the only library used.
 
+[![Image from Gyazo](https://i.gyazo.com/311612e8c5f1148861d36739a82baac3.gif)](https://gyazo.com/311612e8c5f1148861d36739a82baac3)
+
 
 
 ### Code Highlights
@@ -98,9 +100,7 @@ window.addEventListener("scroll", (event) => {
     }
   }
 });
-```
-
-  - 
+``` 
 
 
 
