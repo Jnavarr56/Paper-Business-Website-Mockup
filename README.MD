@@ -1,6 +1,8 @@
 # Small Business Website Mockup (Paper Company)
-Hosted Here: asdasdasdasd
+
 [![Image from Gyazo](https://i.gyazo.com/aa5bd0aeea6645d22db8e32c5da1a2d3.gif)](https://gyazo.com/aa5bd0aeea6645d22db8e32c5da1a2d3)
+
+
 ### Description
 This site is a mockup of a fictional paper company I created to show off my ability
 to create an eye catching landing page, as well as incorporate scroll based event
