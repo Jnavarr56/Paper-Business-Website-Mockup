@@ -1,5 +1,5 @@
 # Small Business Website Mockup (Paper Company)
-Hosted here:
+Hosted here: https://jnavarr56.github.io/Paper-Business-Website-Mockup/
 
 ### Description
 This site is a mockup of a fictional paper company I created to show off my ability
