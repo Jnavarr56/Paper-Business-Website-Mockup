@@ -1,7 +1,7 @@
 # Small Business Website Mockup (Paper Company)
 Hosted here: https://jnavarr56.github.io/Paper-Business-Website-Mockup/
-
-
+![](paper-home.gif)
+![](paper-scroll.gif)
 ### Description
 (This was my week 1 bootcamp project)
 
