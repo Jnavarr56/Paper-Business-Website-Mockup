@@ -3,6 +3,8 @@ Hosted here: https://jnavarr56.github.io/Paper-Business-Website-Mockup/
 
 
 ### Description
+(This was my week 1 bootcamp project)
+
 This site is a mockup of a fictional paper company I created to show off my ability
 to create an eye catching landing page, as well as incorporate scroll based event
 listeners in conjunction with a clickable navigation bar that tracks the users position on the page.
