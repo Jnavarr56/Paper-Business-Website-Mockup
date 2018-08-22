@@ -1,7 +1,6 @@
 # Small Business Website Mockup (Paper Company)
 Hosted here: https://jnavarr56.github.io/Paper-Business-Website-Mockup/
 
-[![Image from Gyazo](https://i.gyazo.com/311612e8c5f1148861d36739a82baac3.gif)](https://gyazo.com/311612e8c5f1148861d36739a82baac3)
 
 ### Description
 This site is a mockup of a fictional paper company I created to show off my ability
@@ -12,8 +11,6 @@ Smooth scroll behavior allows for a comfortable design as the user travels acros
 company's page and views information in each new section.
 
 Chart.js is the only library used.
-
-[![Image from Gyazo](https://i.gyazo.com/311612e8c5f1148861d36739a82baac3.gif)](https://gyazo.com/311612e8c5f1148861d36739a82baac3)
 
 
 
