@@ -1,5 +1,6 @@
 # Small Business Website Mockup (Paper Company)
 Hosted Here: asdasdasdasd
+
 [![Image from Gyazo](https://i.gyazo.com/aa5bd0aeea6645d22db8e32c5da1a2d3.gif)](https://gyazo.com/aa5bd0aeea6645d22db8e32c5da1a2d3)
 
 
