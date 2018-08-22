@@ -1,6 +1,8 @@
 # Small Business Website Mockup (Paper Company)
 Hosted here: https://jnavarr56.github.io/Paper-Business-Website-Mockup/
 
+[![Image from Gyazo](https://i.gyazo.com/311612e8c5f1148861d36739a82baac3.gif)](https://gyazo.com/311612e8c5f1148861d36739a82baac3)
+
 ### Description
 This site is a mockup of a fictional paper company I created to show off my ability
 to create an eye catching landing page, as well as incorporate scroll based event
