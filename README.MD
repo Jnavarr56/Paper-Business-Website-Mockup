@@ -1,7 +1,5 @@
 # Small Business Website Mockup (Paper Company)
 
-[![Image from Gyazo](https://i.gyazo.com/aa5bd0aeea6645d22db8e32c5da1a2d3.gif)](https://i.gyazo.com/aa5bd0aeea6645d22db8e32c5da1a2d3.gif)
-
 
 ### Description
 This site is a mockup of a fictional paper company I created to show off my ability
@@ -13,7 +11,7 @@ company's page and views information in each new section.
 
 Chart.js is the only library used.
 
-[![Image from Gyazo](https://i.gyazo.com/3185ea0e9118127938454609131cab35.gif)](https://gyazo.com/3185ea0e9118127938454609131cab35)
+
 
 ### Code Highlights
 The following is a single event listener bound to a scroll event on the window verifies which section of the page the viewer must be on, according to scroll offset from the top. 
